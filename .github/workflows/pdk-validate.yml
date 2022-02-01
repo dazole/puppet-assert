@@ -1,4 +1,4 @@
-name: Test action
+name: PDK validate module
 
 on:
   - pull_request
